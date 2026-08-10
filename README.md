@@ -1,134 +1,175 @@
-<h1 align="center">Hi there, I'm Deva K 👋</h1>
-<h3 align="center">Aspiring Software Developer | CS Undergraduate | Web Dev & ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://hackerrank.com/YOUR-HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="mailto:k.deva8428893@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Hi%20There,%20I'm%20Deva%20K%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20|%20Web%20Dev%20&%20ML%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate+%40+RMD+Engineering;Full-Stack+Developer+%7C+MERN+Stack;Machine+Learning+%26+Data-Driven+Apps;Always+Learning+%7C+Always+Building+🚀" />
 
-### 🚀 About Me
+<br/>
 
-- 🎓 B.E. Computer Science (2023 – 2027) @ **RMD Engineering College** — CGPA: **8.09**
-- 💻 Hands-on experience in **full-stack web development** and **machine learning**
-- 🌱 Currently strengthening skills in modern frameworks and real-time application development
-- 🤝 Open to **internship / entry-level developer** opportunities
-- ⚡ Fun fact: I've built ML models on 50,000+ real-world records and shipped MERN-stack apps end-to-end
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://hackerrank.com/YOUR-HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="mailto:k.deva8428893@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 
-### 🛠️ Tech Stack
+</div>
+
+<img src="https://raw.githubusercontent.com/andresmvi/andresmvi/main/rainbow-line.gif" width="100%">
+
+## 🚀 About Me
+
+```yaml
+name: Deva K
+role: Aspiring Software Developer
+education: B.E. Computer Science, RMD Engineering College (2023 - 2027)
+cgpa: 8.09
+focus: [Full-Stack Development, Machine Learning, Problem Solving]
+currently_exploring: Modern web frameworks & real-time systems
+looking_for: Internship / Entry-level Developer opportunities
+fun_fact: "Trained ML models on 50,000+ real-world records 📊"
+```
+
+<img src="https://raw.githubusercontent.com/andresmvi/andresmvi/main/rainbow-line.gif" width="100%">
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" />
 
 **Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs,mongodb,express" />
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 **Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github,aws,netlify" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
----
+</div>
 
-### 💼 Work Experience
+<img src="https://raw.githubusercontent.com/andresmvi/andresmvi/main/rainbow-line.gif" width="100%">
 
-**Web Development Intern** — *InternPro (Remote)* · Jun 2025 – Jul 2025
-- Built a full-stack **Restaurant Booking Web Application** using the MERN stack
-- Implemented online table booking, menu management, and booking administration
-- Integrated REST APIs with Axios; deployed frontend on Netlify, backend on MongoDB Atlas
+## 💼 Work Experience
 
-**AI/ML Intern** — *AICTE IBM SkillsBuild (Remote)* · Jun 2025 – Jul 2025
-- Built an **Employee Salary Prediction System** using Flask, Scikit-learn, Pandas & NumPy
-- Trained regression models on 50,000+ employee records with feature engineering & tuning
-- Developed an interactive web UI for real-time salary prediction
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌐 Web Development Intern
+**InternPro (Remote)** · Jun – Jul 2025
 
-### 🧩 Featured Projects
+- Built a full-stack **Restaurant Booking App** using the MERN stack
+- Online table booking, menu management & admin dashboard
+- Integrated REST APIs via Axios
+- Deployed frontend on **Netlify**, backend on **MongoDB Atlas**
 
-<table>
-  <tr>
-    <td width="33%">
-      <h4>📱 ContentScheduler</h4>
-      <p><em>JavaScript, Python, REST APIs, HTML, CSS</em></p>
-      <p>Centralized platform to publish and schedule posts across 7+ social media platforms, with automated post-activity tracking.</p>
-    </td>
-    <td width="33%">
-      <h4>🔄 DevPulse</h4>
-      <p><em>JavaScript, Python, GitHub Webhooks, HTML, CSS</em></p>
-      <p>Event-driven system that syncs developer portfolios with GitHub in real time using webhooks and an embeddable widget.</p>
-    </td>
-    <td width="33%">
-      <h4>💰 Salary Prediction System</h4>
-      <p><em>Python, Flask, HTML, CSS, JavaScript</em></p>
-      <p>ML-powered salary prediction app with company-specific model training, admin approval workflows, and secure auth.</p>
-    </td>
-  </tr>
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI/ML Intern
+**AICTE IBM SkillsBuild (Remote)** · Jun – Jul 2025
+
+- Built an **Employee Salary Prediction System** (Flask + Scikit-learn)
+- Trained regression models on **50,000+ records**
+- Feature selection & hyperparameter tuning
+- Interactive HTML/CSS/JS front end for predictions
+
+</td>
+</tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andresmvi/andresmvi/main/rainbow-line.gif" width="100%">
 
-### 🏆 Achievements & Certifications
+## 🧩 Featured Projects
 
-- 🥈 2nd Prize — **72-Hour Build Challenge** (Unstop)
-- 🏅 Participant — **KPRIET NextGen Coders League**, KPR Institute of Engineering and Technology
-- 💻 Participant — **Coding Hackathon**, RMD Engineering College
-- 📜 **Java Programming & DSA using Java** — NPTEL
-- ☁️ **AWS Cloud Architecting** — Certification
-- 🐍 **Python Basics** — HackerRank
-- 🗣️ **Soft Skills** — Infosys Springboard
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/📱_ContentScheduler-6366F1?style=for-the-badge"/>
 
-### 📊 GitHub Stats
+**JavaScript · Python · REST APIs · HTML · CSS**
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical"/>
-</p>
+Centralized platform to publish & auto-schedule posts across **7+ social media platforms**, with a live post-activity tracking module.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak"/>
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/🔄_DevPulse-06B6D4?style=for-the-badge"/>
 
-### 📫 Let's Connect
+**JavaScript · Python · GitHub Webhooks · HTML · CSS**
 
-<p align="center">
-  📧 <a href="mailto:k.deva8428893@gmail.com">k.deva8428893@gmail.com</a> &nbsp;|&nbsp;
-  📱 +91-9032797140 &nbsp;|&nbsp;
-  🔗 <a href="#">LinkedIn</a> &nbsp;|&nbsp;
-  💻 <a href="#">LeetCode</a> &nbsp;|&nbsp;
-  🏆 <a href="#">HackerRank</a>
-</p>
+Event-driven engine that syncs developer portfolios with GitHub **in real time** via webhooks, auto-extracting README content through an embeddable widget.
 
-<p align="center"><em>Thanks for visiting my profile — always excited to collaborate on interesting projects! 🚀</em></p>
+<br/>
+
+<img src="https://img.shields.io/badge/💰_Salary_Prediction_System-10B981?style=for-the-badge"/>
+
+**Python · Flask · HTML · CSS · JavaScript**
+
+ML-powered salary prediction app with company-specific model training, admin approval workflows, and secure authentication with email credential delivery.
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andresmvi/andresmvi/main/rainbow-line.gif" width="100%">
+
+## 🏆 Achievements & Certifications
+
+<table width="100%">
+<tr><td>🥈</td><td><b>2nd Prize</b> — 72-Hour Build Challenge (Unstop)</td></tr>
+<tr><td>🏅</td><td><b>Participant</b> — KPRIET NextGen Coders League, KPR Institute of Engineering & Technology</td></tr>
+<tr><td>💻</td><td><b>Participant</b> — Coding Hackathon, RMD Engineering College</td></tr>
+<tr><td>📜</td><td><b>Java Programming & DSA using Java</b> — NPTEL</td></tr>
+<tr><td>☁️</td><td><b>AWS Cloud Architecting</b> — Certification</td></tr>
+<tr><td>🐍</td><td><b>Python Basics</b> — HackerRank</td></tr>
+<tr><td>🗣️</td><td><b>Soft Skills</b> — Infosys Springboard</td></tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andresmvi/andresmvi/main/rainbow-line.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+
+</div>
+
+<!--
+🐍 Snake contribution animation:
+1. Go to your repo → Settings → Actions → set up the "platane/snk" GitHub Action
+2. Then uncomment the line below and it will animate your contribution graph as a snake
+<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+-->
+
+<img src="https://raw.githubusercontent.com/andresmvi/andresmvi/main/rainbow-line.gif" width="100%">
+
+## 📫 Let's Connect
+
+<div align="center">
+
+📧 [k.deva8428893@gmail.com](mailto:k.deva8428893@gmail.com) &nbsp;|&nbsp; 📱 +91-9032797140
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://hackerrank.com/YOUR-HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!+🚀;Always+excited+to+collaborate+on+new+ideas!" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
